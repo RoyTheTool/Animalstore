@@ -29,3 +29,11 @@ ul {
     height: 200px;
     border: 2px solid;
 }
+
+table,th,td {
+    border: 2px solid;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+    padding: 15px;
+}
